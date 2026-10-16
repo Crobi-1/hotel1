@@ -17,17 +17,9 @@ namespace hotel1
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
+        
 
-        }
-
-        private void lbl_1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
+        private void btn_1_Click(object sender, EventArgs e)
         {
 
         }
